@@ -1,0 +1,16 @@
+type: GenericCrafter
+scaledHealth: 50
+size: 9
+hasLiquids: true
+hasPower: true
+hasItems: true
+itemCapacity: 20
+liquidCapacity: 100
+craftTime: 150
+requirements: [lead/3000, thorium/2800, silicon/2000, plastanium/600, surge-alloy/400]
+craftEffect: none
+outputItem: pineapple/1
+consumes: {power: 0.5, liquids: [water/0.5, gobbledy-goo/0.8333333333333334], items: {items: [surge-alloy/4, plastanium/4, spore-pod/4]}}
+//research: surge-smelter
+//objectives: surge-alloy
+category: production
