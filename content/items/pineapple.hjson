@@ -1,6 +1,5 @@
-name: Pineapple
-hardness: 1
-flammability: 0
-buildable: false
-cost: 1
-color: e8d174
+hardness: 11
+flammability: 0.2
+buildable: true
+cost: 3
+color: F6C64A
